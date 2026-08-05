@@ -1,7 +1,0 @@
-print("My name is Anamika")
-print("I am learning python")
-print("This is my third coding practice)
-name = "Anamika"
-age = 18
-print(name)
-print(age)
