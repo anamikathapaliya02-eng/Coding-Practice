@@ -1,0 +1,10 @@
+name = "Anamika"
+age = 18
+height = 5.2
+student = true
+print(name)
+print(age)
+print(height)
+print(student)
+
+
